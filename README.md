@@ -20,7 +20,7 @@ Once that's complete, run `npm i -g widdershins@4.0.1`.
 In your directory, run the following command to generate a Markdown file from your OpenAPI spec.
 
 ```
-$ widdershins openapi.json -c -l -o openapi.md
+$ widdershins openapi.json -c -l -o README.md
 ```
 
 Commit your changes and push them to this repository.
